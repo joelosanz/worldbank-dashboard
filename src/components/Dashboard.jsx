@@ -32,11 +32,13 @@ function Dashboard() {
         <ChartComponent
           title="GDP"
           data={gdpData}
+          type="line"
         />
 
         <ChartComponent
           title="Population"
           data={populationData}
+          type="bar"
         />
 
       </div>
