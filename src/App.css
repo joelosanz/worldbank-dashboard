@@ -1,0 +1,43 @@
+body{
+  background:#0f172a;
+  color:white;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.app{
+  text-align:center;
+}
+
+.dashboard{
+  margin-top:40px;
+}
+
+.filter-container{
+  margin-bottom:40px;
+  font-size:18px;
+}
+
+select{
+  margin-left:10px;
+  padding:8px 12px;
+  border-radius:8px;
+}
+
+.charts{
+  display:flex;
+  justify-content:center;
+  gap:40px;
+  flex-wrap:wrap;
+}
+
+.chart-card{
+  background:#1e293b;
+  padding:20px;
+  border-radius:12px;
+  width:400px;
+  box-shadow:0 10px 20px rgba(0,0,0,0.3);
+}
+
+.chart-card h2{
+  margin-bottom:20px;
+}
