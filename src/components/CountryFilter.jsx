@@ -23,7 +23,7 @@ function CountryFilter({ setCountry }) {
       >
         <option value="USA">United States</option>
         <option value="CAN">Canada</option>
-        <option value="MEX">Mexico</option>
+        <option value="MEX">México</option>
         <option value="BRA">Brazil</option>
         <option value="DEU">Germany</option>
         <option value="JPN">Japan</option>
