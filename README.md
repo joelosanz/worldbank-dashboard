@@ -1,4 +1,4 @@
-Prueba Técnica Front-End Dinametra
+Prueba Técnica Front-End 
 
 Dashboard interactivo construido con React + Vite, que consume datos reales del World Bank API para visualizar indicadores económicos como PIB (GDP) y Población.
 
